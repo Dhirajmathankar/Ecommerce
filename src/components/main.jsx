@@ -7,7 +7,7 @@ const Home = () => {
         <div className="card bg-dark text-white border-0 mx-3">
           <img
             className="card-img img-fluid"
-            src="./assets/ecommerce-online-shop-euro.jpg"
+            src="https://english.onlinekhabar.com/wp-content/uploads/2023/01/e-commerce-1.jpg"
             alt="Card"
             height={300}
             style={{height:"30rem"}}
