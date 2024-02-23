@@ -5,7 +5,8 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-[https://Dhirajmathankar.github.io/](https://github.com/Dhirajmathankar/Ecommerce/)
+https://dhirajmathankar.github.io/Ecommerce/
+
 
 ## Features
 
