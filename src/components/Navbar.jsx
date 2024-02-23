@@ -10,7 +10,7 @@ const Navbar = () => {
         <div>
         <div>
         <NavLink style={{    width: '100%' , 
-    'text-align':' center ' , paddingTop:'5px' }} className="navbar-brand fw-bold fs-2 px-2" to="/"> E - Commerce</NavLink>
+    'text-align':' center ' , paddingTop:'5px' }} className="navbar-brand fw-bold fs-2 px-2" to="/"> E - Commerce. </NavLink>
         </div>
 
         <nav className="navbar navbar-expand-lg navbar-light bg-light py-3 sticky-top">
